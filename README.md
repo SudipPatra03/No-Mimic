@@ -169,5 +169,4 @@ streamlit run streamlit_app.py
 - The model checkpoint is stored in `models/best_model.pth` and is used by the prediction pipeline automatically.
 - If the model file is missing, prediction may fall back to untrained/random weights.
 - Audio inputs should be clean and sufficiently long enough for the 3-second segmentation pipeline to work correctly.
-
-
+- ***Currently the project structure is not organised. Would be fixed soon.... You can still use the model for your work.
